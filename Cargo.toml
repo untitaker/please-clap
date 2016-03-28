@@ -1,0 +1,17 @@
+[package]
+name = "please-clap"
+version = "0.1.0"
+
+authors = ["Markus Unterwaditzer <markus@unterwaditzer.net>"]
+license = "MIT"
+keywords = ["clap", "cli", "macro"]
+readme = "README.md"
+
+description = "Pattern-match against Clap subcommands and arguments."
+documentation = "https://please-clap.unterwaditzer.net/"
+homepage = "https://please-clap.unterwaditzer.net/"
+repository = "https://github.com/untitaker/please-clap"
+
+
+[dev-dependencies]
+clap = "2"
